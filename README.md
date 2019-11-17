@@ -1,13 +1,17 @@
-# hack-face-
+# mbf-rhaby
 hack facebook python
 
 Installation:
-$ pkg update upgrade
+
+$ pkg update
+$ pkg upgrade 
 $ pkg install git python2
+$ pkg install git 
+$ pip2 install mechanize
 
-
-Setup:
-$ chmod +x x-hack
+$ git clone https://github.com/YukersCreew/mbf
 
 Running:
-$ python2 x-hack
+$ ls
+$ cd mbf-rhaby
+$ python2 mbf-rhaby
