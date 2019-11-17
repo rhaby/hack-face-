@@ -22,4 +22,4 @@ $ ls
 
 $ cd mbf-rhaby
 
-$ python2 mbf-rhaby
+$ python2 mbf-rhaby.py
