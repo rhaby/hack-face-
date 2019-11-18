@@ -14,7 +14,7 @@ $ pkg install git
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/YukersCreew/mbf
+$ git clone https://github.com/rhaby/hack-face-.git
 
 Running:
 
@@ -23,3 +23,4 @@ $ ls
 $ cd mbf-rhaby
 
 $ python2 mbf-rhaby.py
+
